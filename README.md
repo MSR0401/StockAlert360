@@ -1,2 +1,2 @@
-# StockAlert360
+# StockAlert360📈
 StockAlert360 is a Python-based project that automates stock price monitoring using real-time data, while also integrating the News API to fetch up-to-the-minute news articles related to stock price fluctuations. This system significantly reduces research time, saving users over 20 hours per week, and delivers immediate notifications via the Twilio API through SMS, ensuring users have timely access to critical stock news and price changes, regardless of their location or device, facilitating informed decision-making in the stock market.
